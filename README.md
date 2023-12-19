@@ -1,1 +1,1 @@
-# Test
+# Credit clients determination
